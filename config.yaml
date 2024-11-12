@@ -1,0 +1,6 @@
+subscriptions:
+  - topic_name: /w200_0083/platform/motor/right/status/velocity
+    message_type: std_msgs/msg/Float64
+    fields:
+      - name: data
+        field_path: data
